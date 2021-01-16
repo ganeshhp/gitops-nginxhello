@@ -1,0 +1,1 @@
+{"jobID":"1dcaea39-f18a-10bd-b243-d636288f4309","spec":{"type":"policy","cause":{"Message":"","User":"ganeshhp \u003cganeshhp@gmail.com\u003e"},"spec":{"default:deployment/nginxhello":{"add":{"tag.nginxhello":"semver:~1.19.x"},"remove":{}}}},"result":null}
